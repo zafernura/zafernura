@@ -1,4 +1,4 @@
-## Hi there 👋
+https://streak-stats.demolab.com?user=zafernura&theme=github-dark
 
 <!--
 **zafernura/zafernura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
